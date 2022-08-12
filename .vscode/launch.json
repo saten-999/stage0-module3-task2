@@ -1,0 +1,31 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch NamingConvention",
+            "request": "launch",
+            "mainClass": "lang.print.gaps.task2.NamingConvention",
+            "projectName": "java.syntax.task2"
+        },
+        {
+            "type": "java",
+            "name": "Launch CopiedNames",
+            "request": "launch",
+            "mainClass": "lang.print.gaps.task2.CopiedNames",
+            "projectName": "java.syntax.task2"
+        },
+        {
+            "type": "java",
+            "name": "Launch JavaVariableNames",
+            "request": "launch",
+            "mainClass": "lang.print.gaps.task2.JavaVariableNames",
+            "projectName": "java.syntax.task2"
+        },
+        {
+            "name": "Listen for Xdebug",
+            "type": "php",
+            "request": "launch",
+            "port": 9003
+        }
+    ]
+}
