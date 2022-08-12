@@ -2,10 +2,19 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch AdvancedNamingConvention",
+            "request": "launch",
+            "mainClass": "lang.print.gaps.task2.AdvancedNamingConvention",
+            "projectName": "java.syntax.task2"
+        },
+        {
+            "type": "java",
             "name": "Launch NamingConvention",
             "request": "launch",
             "mainClass": "lang.print.gaps.task2.NamingConvention",
-            "projectName": "java.syntax.task2"
+            "projectName": "java.syntax.task2",
+            "noDebug": false,
+            "__progressId": "a09322ed-2325-4d2e-983c-b1c43a8638ca"
         },
         {
             "type": "java",
