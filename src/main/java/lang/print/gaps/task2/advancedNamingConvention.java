@@ -15,6 +15,6 @@ public class AdvancedNamingConvention {
         //some code
     }
     public static void main(String [ ] args){
-
+ 
     }
 }
